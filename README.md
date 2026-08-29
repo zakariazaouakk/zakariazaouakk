@@ -1,8 +1,8 @@
 ### Hi there!
 
-I'm **Zakaria**, an AI Engineer passionate about Generative AI, AI Agents, RAG systems, and building practical AI applications.
+I'm [**Zakaria Zaouak**](https://linkedin.com/in/zakariazaouak), an AI Engineer passionate about Generative AI, AI Agents, RAG systems, and building practical AI applications.
 
-I hold a **Master of Excellence in Artificial Intelligence and Connected Objects** from Ibn Tofail University.
+I hold a **Master of Excellence in Artificial Intelligence and Connected Objects** from [**Université Ibn Tofaïl de Kénitra**](https://www.uit.ac.ma/).
 
 I've worked on AI systems including conversational agents, Text-to-SQL pipelines, hybrid RAG systems, LLM applications, and AI-powered automation.
 
