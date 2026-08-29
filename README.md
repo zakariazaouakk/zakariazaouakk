@@ -15,3 +15,5 @@ When I am not *building AI*, you can find me drawing, playing games, or explorin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariazaouakk&label=Profile%20views&color=0e75b6&style=flat" alt="zakariazaouakk" /> </p>
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/zakariazaouak)
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
