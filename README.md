@@ -8,18 +8,12 @@ I've worked on AI systems including conversational agents, Text-to-SQL pipelines
 
 When I am not *building AI*, you can find me drawing, playing games, or exploring new AI technologies.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="310" alt="Profile illustration">
-</p>
-
-#### Let's connect −☆
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/zakariazaouak/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="310" alt="Profile image">
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zakariazaouakk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
+#### Follow me on GitHub and LinkedIn −☆
+
+![Profile views](https://komarev.com/ghpvc/?username=zakariazaouakk)
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zakariazaouak/)
